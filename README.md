@@ -3,9 +3,9 @@
 <h1 align="center">Xiaoyan Su</h1>
 
 <p align="center">
-  <a href="https://sxy1499894281.github.io/" title="Personal website"><img src="assets/website.svg" width="23" height="23" alt="Website"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=73UtCDkAAAAJ" title="Google Scholar"><img src="assets/scholar.svg" width="23" height="23" alt="Google Scholar"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:xsu418@connect.hkust-gz.edu.cn" title="Email"><img src="assets/email.svg" width="23" height="23" alt="Email"></a>
+  <a href="https://github.com/sxy1499894281" title="GitHub"><img src="assets/github.svg" width="20" height="20" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=73UtCDkAAAAJ" title="Google Scholar"><img src="assets/scholar.svg" width="22" height="22" alt="Google Scholar"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:xsu418@connect.hkust-gz.edu.cn" title="Email"><img src="assets/email.svg" width="22" height="22" alt="Email"></a>
 </p>
 
 ## About
